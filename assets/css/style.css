@@ -1,0 +1,13 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-light{
+    background-image: url(../img/kevin-schmid-DIq7Bs3ga2s-unsplash.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.collection {
+    margin-top: 150px;
+}
